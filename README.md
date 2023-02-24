@@ -3,6 +3,6 @@
 ---
 
 <p align="center">
-FalixKamishin reverse account. ArchLinux user. <br>
+Hello, Im Falix/Danya! <br>
 <br>
 
