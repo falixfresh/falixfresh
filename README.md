@@ -2,4 +2,7 @@
 
 ---
 
-FalixKamishin reverse account. ArchLinux user.
+<p align="center">
+FalixKamishin reverse account. ArchLinux user. <br>
+<br>
+
