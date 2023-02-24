@@ -3,6 +3,6 @@
 ---
 
 <p align="center">
-Hello, Im Falix/Danya! <br>
+Reserve FalixKamishin account <br>
 <br>
 
