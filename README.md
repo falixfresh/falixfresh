@@ -1,8 +1,8 @@
-![Eana Hufwe](https://raw.githubusercontent.com/falixxx/falixxx/main/banner.jpg)
+![Eana Hufwe]()
 
 ---
 
 <p align="center">
-Reserve FalixKamishin account <br>
+Reserve FalixFresh account <br>
 <br>
 
